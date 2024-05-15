@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "homepage": "http://github.com/paypal/Checkout-PHP-SDK/",
     "require": {
-        "fragotesac/paypalhttp": "v1.0.3"
+        "fragotesac/paypalhttp": "dev-master"
     },
     "authors": [
         {
