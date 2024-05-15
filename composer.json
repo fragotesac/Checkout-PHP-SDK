@@ -23,6 +23,7 @@
             "url": "https://github.com/fragotesac/paypalhttp.git"
         }
     ],
+    "minimum-stability": "dev", 
     "autoload": {
         "psr-4": {
             "PayPalCheckoutSdk\\": "lib/PayPalCheckoutSdk",
